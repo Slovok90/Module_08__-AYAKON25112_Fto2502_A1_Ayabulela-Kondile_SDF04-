@@ -1,0 +1,18 @@
+/* Base Styles */
+
+li {
+    list-style-type: grid;
+    display: grid;
+  }
+
+li {
+    padding: 0px 10px 0px 10px;
+    }
+
+.content image {
+      width: 100px;
+      height: 200px;
+      display: block; /* Make the image a block element */
+  }
+  hr {border: 1px solid orangered;
+  }
